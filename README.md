@@ -1,2 +1,2 @@
-# Dad-Jokes-Chrome-Extension
+# Laugh-with-Pops-Chrome-Extension
 You click on this google chrome extension to get a random Joke every time 😂
